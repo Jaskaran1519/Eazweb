@@ -747,7 +747,7 @@ ul li:before {
 }
 /* ------------why us------- */
 
-/* h1,
+h1,
 h2,
 h3,
 h4,
@@ -799,7 +799,7 @@ margin-bottom: 60px;
 .section-head h4 {
 position: relative;
 padding:0;
-color:#4594cc;
+color: #2f2f2f;
 line-height: 1;
 letter-spacing:0.3px;
 font-size: 34px;
@@ -812,7 +812,7 @@ margin-bottom:30px;
 content: '';
 width: 60px;
 height: 3px;
-background: #4594cc;
+background: #2f2f2f;
 position: absolute;
 left: 0px;
 bottom: -10px;
@@ -863,6 +863,7 @@ color:#4594cc;
 .item {
 text-align: center;
 padding: 30px 25px;
+background-color: white;
 height: 90%;
 -webkit-box-shadow:0 0px 25px rgba(0, 0, 0, 0.07);
 box-shadow:0 0px 25px rgba(0, 0, 0, 0.07);
@@ -999,7 +1000,7 @@ color: #fff;
 background:rgba(0, 0, 0, 0.9);
 padding: 3px 7px;
 border-radius: 30px;
-} */
+}
 /* --------project----- */
 #project{
     padding: 50px 0;
@@ -1076,7 +1077,6 @@ border-radius: 30px;
         grid-template-columns: repeat(1, minmax(250px, 1fr)); /* Display 1 service per row for smaller screens */
     }
     .work{
-        width: 80%;
         height: 40vw;
     }
 }

@@ -324,7 +324,6 @@ body{
 .c-section{
     width: 100%;
     height: auto;
-    overflow: hidden;
     padding: 10%;
 }
 .c-section h1{
@@ -334,9 +333,7 @@ body{
     font-family: sans-serif; 
     margin-top: 50px;
 }
-.c-services__item{
-    
-}
+
 @media screen and (max-width:850px){
     .c-section{
         width: 100%;

@@ -334,7 +334,9 @@ body{
     font-family: sans-serif; 
     margin-top: 50px;
 }
-
+.c-services__item{
+    
+}
 @media screen and (max-width:850px){
     .c-section{
         width: 100%;

@@ -1,3 +1,5 @@
+
+
 function sendMail() {
     let params = {
       name: document.getElementById("name").value,
@@ -21,4 +23,6 @@ function sendMail() {
       })
       .catch(err=>console.log(err));
   
-}
+} 
+
+

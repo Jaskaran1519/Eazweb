@@ -7,9 +7,10 @@
     font-size: 20px;
 }
 body{
-    background-image: url("https://unsplash.com/photos/light-blue-to-purple-gradient-PHtp0cDBJSM");
-    background-repeat: repeat;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200710/pngtree-soft-cool-and-warm-contrast-gradient-background-image_351658.jpg");
+    background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 .banner{
     width: 100%;
@@ -20,7 +21,7 @@ body{
 }
 .navbar{
     width: 100%;
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 50px;
     display: flex;
     align-items: center;
@@ -143,7 +144,7 @@ body{
   }
   .menu__btn {
     position: absolute;
-    top: 30px;
+    top: 50px;
     right: 30px;
     width: 26px;
     height: 26px;
@@ -174,7 +175,7 @@ body{
     top: 0;
     left: -100%;
     width: 300px;
-    height: 100%;
+    height: 100vh;
     margin: 0;
     padding: 80px 0;
     list-style: none;
@@ -747,7 +748,7 @@ ul li:before {
 }
 /* ------------why us------- */
 
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -1000,7 +1001,7 @@ color: #fff;
 background:rgba(0, 0, 0, 0.9);
 padding: 3px 7px;
 border-radius: 30px;
-}
+} */
 /* --------project----- */
 
 

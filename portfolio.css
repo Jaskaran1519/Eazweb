@@ -1292,7 +1292,7 @@ border-radius: 30px;
   transition: 0.25s;
 }
 #projects.dark {
-  background: #232223;
+  /* background: #232223; */
   color: white;
 }
 @media (prefers-color-scheme: dark) {

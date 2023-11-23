@@ -114,6 +114,7 @@ body{
     color: black;
     cursor: pointer;
 }
+
 .main-buttons button:hover{
     background-color: #009688;
     color: white;

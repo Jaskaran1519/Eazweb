@@ -99,6 +99,7 @@ body{
 .content span{
     font-size: 15vh;
     font-family: 'Anton';
+    font-weight: 400;
 }
 .content p{
     font-size:23px;

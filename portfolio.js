@@ -26,3 +26,13 @@ function sendMail() {
     })
     .catch((err) => console.log(err));
 }
+
+
+
+  const menuItems = document.querySelectorAll('.menu__item');
+
+for (let menuItem of menuItems) {
+  menuItem.addEventListener('click', () => {
+    document.getElementById('menu__toggle').checked = false;
+  });
+}
